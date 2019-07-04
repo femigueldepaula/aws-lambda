@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "calculator-input-itau-felipe-lab"
+        },
+        "object": {
+          "key": "numbers.txt"
+        }
+      }
+    }
+  ]
+}
